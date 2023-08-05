@@ -1,5 +1,5 @@
 #简单的工作流程部署静态内容到GitHub页面
-name: Deploy static content to Pages
+name: 将静态内容部署到Pages
 
 on:
 #针对默认分支推送运行
