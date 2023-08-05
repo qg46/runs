@@ -36,5 +36,4 @@ jobs:
           echo test, and deploy your project.
           echo 这台机器我拿来自动收集卖片反馈，先测试一下能不能跑通
           echo 系统是乌班图
-
-          ping www.baidu.com
+          ping www.bilibili.com
