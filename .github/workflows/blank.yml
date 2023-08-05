@@ -38,3 +38,4 @@ jobs:
           echo 系统是乌班图
           ls -alh
           mkdir 测试文件夹
+          touch 测试.txt
