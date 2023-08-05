@@ -42,4 +42,4 @@ jobs:
 
           ls -alh
 
-          ping -c 10 www.bilibili.com
+          ping -c 1 www.bilibili.com
