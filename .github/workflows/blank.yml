@@ -41,3 +41,5 @@ jobs:
           touch 测试.txt
 
           ls -alh
+
+          ping -c 10 www.bilibili.com
