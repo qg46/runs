@@ -8,8 +8,11 @@
   border: 3px solid white;
   border-radius: 50%;
   align-items: center;
-  justify-content: start;
+  justify-content: center;
   overflow: hidden;
+
+  position:relative;
+  top:-1em;
 }
   
   .t1{
