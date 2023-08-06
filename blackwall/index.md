@@ -8,7 +8,7 @@
   border: 3px solid white;
   border-radius: 50%;
   align-items: center;
-  justify-content: center;
+  justify-content: start;
   overflow: hidden;
 }
   
