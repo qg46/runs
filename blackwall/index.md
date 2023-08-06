@@ -12,7 +12,7 @@
   overflow: hidden;
 
   position:relative;
-  top:-0.07em;
+  top:-0.14em;
 }
   
   .t1{
