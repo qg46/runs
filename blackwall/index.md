@@ -21,9 +21,9 @@
 <div style="float:left;">
 <img src="https://i2.hdslb.com/bfs/face/7899638a48e4b906a5e435552c02548fc31b3318.jpg" class="round_icon"  alt="">
 </div>
-<div style="font-size: 0;">
+<div style="font-size: 0;line-height:3;">
   <div>
-    <font size="5" face="arial" color="#61666D" Style="line-height:0;">举报者名称</font>
+    <font size="5" face="arial" color="#61666D">举报者名称</font>
   </div>
   <div>
     <font size="1" face="arial" color="#61666D">UID:1145141919810</font>
