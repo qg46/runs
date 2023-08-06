@@ -25,7 +25,7 @@
   <div>
     <font size="5" face="arial" color="#61666D">举报者名称</font>
   </div>
-  <div>
+  <div Style="padding-top:-14">
     <font size="1" face="arial" color="#61666D" Style="padding-top:-14">UID:1145141919810</font>
   </div>
 </div>
