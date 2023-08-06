@@ -10,6 +10,7 @@
   justify-content: center;
   overflow: hidden;
 }
+  body{margin:0;padding:0;}
 </style>
 
 
