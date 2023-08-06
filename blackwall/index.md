@@ -20,7 +20,7 @@
 
 
 <img src="https://i2.hdslb.com/bfs/face/7899638a48e4b906a5e435552c02548fc31b3318.jpg" class="round_icon"  alt="">
-<font size="5" face="arial" color="red" style="float:right">举报者名称</font>
+<font size="5" face="arial" color="red" style="float:right;width:80%;">举报者名称</font>
 
 
 
