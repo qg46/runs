@@ -23,12 +23,10 @@
 
 目前先测试着看
 
-<div style="float:left;">
-<img src="https://i2.hdslb.com/bfs/face/7899638a48e4b906a5e435552c02548fc31b3318.jpg" class="round_icon"  alt="">
-</div>
-  <div>
-    <font size="5" face="arial" color="#61666D" Style="">举报者名称</font><br>
-    <font size="2" face="arial" color="#61666D" Style="line-height:-1.14em;">UID:1145141919810</font>
+  <div Style="line-height:1.14em;">
+    <img src="https://i2.hdslb.com/bfs/face/7899638a48e4b906a5e435552c02548fc31b3318.jpg" class="round_icon" style="float:left;" alt="">
+    <font size="5" face="arial" color="#61666D">举报者名称</font><br>
+    <font size="2" face="arial" color="#61666D">UID:1145141919810</font>
   </div>
 
       
