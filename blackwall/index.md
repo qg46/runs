@@ -12,7 +12,7 @@
   overflow: hidden;
 
   position:relative;
-  top:-0.3em;
+  top:-0.31em;
 }
 </style>
 
