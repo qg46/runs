@@ -12,7 +12,7 @@
   overflow: hidden;
 }
   
-  .解决间隙{
+  .t1{
     line-height:1.5;
     margin:-0.25em 0;
   }
@@ -26,9 +26,9 @@
 <div style="float:left;">
 <img src="https://i2.hdslb.com/bfs/face/7899638a48e4b906a5e435552c02548fc31b3318.jpg" class="round_icon"  alt="">
 </div>
-  <div class="解决间隙">
-    <font size="5" face="arial" color="#61666D" Style="">举报者名称</font><br>
-    <font size="1" face="arial" color="#61666D" Style="">UID:1145141919810</font>
+  <div class="t1">
+    <font size="5" face="arial" color="#61666D" class="t1">举报者名称</font><br>
+    <font size="1" face="arial" color="#61666D" class="t1">UID:1145141919810</font>
   </div>
 
       
