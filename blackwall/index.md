@@ -1,8 +1,8 @@
 <meta name="referrer" content="no-referrer" />
 <style type="text/css" media="screen">
 .round_icon{
-  width: 34px;
-  height: 34px;
+  width: 40px;
+  height: 40px;
   display: flex;
   border: 3px solid white;
   border-radius: 50%;
