@@ -14,9 +14,7 @@
 
   .user_div{
             width: 400px;
-            height: 250px;
-            background-color: red;
-            
+            height: 250px;        
         }
 
 </style>
