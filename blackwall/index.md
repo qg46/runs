@@ -1,3 +1,4 @@
+<img referrer="no-referrer|origin|unsafe-url" src="{item.src}"/>
 <style type="text/css" media="screen">
 .round_icon{
   width: 34px;
