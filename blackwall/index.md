@@ -12,13 +12,8 @@
   overflow: hidden;
 
   position:relative;
-  top:-0.23em;
+  top:-0.28em;
 }
-  
-  .t1{
-    line-height:1.5;
-    margin:-0.25em 0;
-  }
 </style>
 
 
