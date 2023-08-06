@@ -12,11 +12,6 @@
   overflow: hidden;
 }
   
-  *{
-    margin:0;
-    padding:0;
-  }
-
   .解决间隙{
     line-height:1.5;
     margin:-0.25em 0;
