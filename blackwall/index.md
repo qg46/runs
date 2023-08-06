@@ -8,15 +8,7 @@
   align-items: center;
   justify-content: center;
   overflow: hidden;
-
-  vertical-align: middle;
 }
-
-  .user_div{
-            width: 400px;
-            height: 250px;        
-        }
-
 </style>
 
 
@@ -24,9 +16,15 @@
 
 目前先测试着看
 
-<div class="user_div">
-<img src="https://i2.hdslb.com/bfs/face/7899638a48e4b906a5e435552c02548fc31b3318.jpg" class="round_icon"  alt="">
-<font size="5" face="arial" color="red">举报者名称</font>
-</div>
+<table border="1">
+<tr>
+  <td><img src="https://i2.hdslb.com/bfs/face/7899638a48e4b906a5e435552c02548fc31b3318.jpg" class="round_icon"  alt=""></td>
+  <td><font size="5" face="arial" color="red">举报者名称</font></td>
+  <td>300</td>
+</tr>
+</table>
+
+
+
 
 
