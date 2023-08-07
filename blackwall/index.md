@@ -27,7 +27,7 @@
     <font size="2" face="arial" color="#61666D">UID:1145141919810</font>
   </div>
 <div>
-  <code style="color:#a5cfd5">举报理由：卖片广告</code>
+  <code style="color:#71898d">举报理由：卖片广告</code>
 </div>
       
 
