@@ -26,8 +26,9 @@
     <font size="5" face="arial" color="#61666D">举报者名称</font><br>
     <font size="2" face="arial" color="#61666D">UID:1145141919810</font>
   </div>
+<div>
         <font size="3" face="arial" color="#a5cfd5">举报理由：卖片广告</font>
-      
+</div>
       
 
 
