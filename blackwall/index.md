@@ -14,6 +14,11 @@
   position:relative;
   top:-0.31em;
 }
+.remarks_style
+ {
+  position:relative;
+  top:-0.31em;
+ }
 </style>
 
 
@@ -29,11 +34,11 @@
 <div>
   <code style="color:#71898d">举报理由：卖片广告</code>
 </div>
-<div>
+<div class="remarks_style">
   <p></p>
  <font color="#6A737D">备注：当前并没有有效的备注信息.</font>
 </div>
-<details><summary>CLICK ME</summary>
+<details><summary>更多信息</summary>
 
 #### We can hide anything, even code!
 
