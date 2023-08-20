@@ -29,9 +29,8 @@
 <div>
   <code style="color:#71898d">举报理由：卖片广告</code>
 </div>
-<div>
-        备注：当前并没有有效的备注信息.
-</div>
+       > 备注：当前并没有有效的备注信息.
+
       
 <details><summary>CLICK ME</summary>
 
