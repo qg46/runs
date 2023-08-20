@@ -30,15 +30,11 @@
   <code style="color:#71898d">举报理由：卖片广告</code>
 </div>
       
-      <details><summary>CLICK ME</summary>
-<p>
-
+<details><summary>CLICK ME</summary><p>
 #### We can hide anything, even code!
-
 ```ruby
    puts "Hello World"
 ```
-
 </p>
 </details>
 
