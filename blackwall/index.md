@@ -41,7 +41,7 @@
 <div>
   <a href="url">链接文本</a>
 </div>
-<details><summary>更多信息</summary>
+<details><summary style="color:#6A737D">更多信息</summary>
 
 #### We can hide anything, even code!
 
