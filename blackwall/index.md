@@ -42,7 +42,7 @@
   <a href="url" style="color:#91a3b0">前往详情页</a>
 </div>
 <details><summary style="color:#91a3b0">更多信息</summary>
-  <a href="https://i0.hdslb.com/bfs/soft_delete_backup/7f7b6a7d99a4aa29b4d215193972611e3537105064036996.jpg" style="color:#91a3b0">del_backup</a>
+  <a href="https://i0.hdslb.com/bfs/soft_delete_backup/7f7b6a7d99a4aa29b4d215193972611e3537105064036996.jpg" style="color:#91a3b0">delbackup</a>
 </details>
 
 _________________
