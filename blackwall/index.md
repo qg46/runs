@@ -39,7 +39,7 @@
  <font color="#6A737D">备注：当前并没有有效的备注信息.</font>
 </div>
 <div>
-  <a href="url" style="color:#91a3b0">链接文本</a>
+  <a href="url" style="color:#91a3b0">前往详情页</a>
 </div>
 <details><summary style="color:#91a3b0">更多信息</summary>
 
