@@ -39,10 +39,10 @@
  <font color="#6A737D">备注：当前并没有有效的备注信息.</font>
 </div>
 <div>
-  <a href="url" style="color:#91a3b0">前往详情页</a>
+  <a href="url" target="_blank" style="color:#91a3b0">前往详情页</a>
 </div>
 <details><summary style="color:#91a3b0">更多信息</summary>
-  <a href="https://i0.hdslb.com/bfs/soft_delete_backup/7f7b6a7d99a4aa29b4d215193972611e3537105064036996.jpg" style="color:#5ba8ff">delbackup</a>
+  <a href="https://i0.hdslb.com/bfs/soft_delete_backup/7f7b6a7d99a4aa29b4d215193972611e3537105064036996.jpg" target="_blank" style="color:#5ba8ff">delbackup</a>
 </details>
 
 _________________
